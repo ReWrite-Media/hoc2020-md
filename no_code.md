@@ -6,7 +6,9 @@
 ## No code is required for this activity. 
 It looks like you haven't started a new activity or there's no coding needed right now. Go find someone who needs your help!
 
+```ghost
+null
+```
 ```template
-player.onChat("run", function () {
-})
+{}
 ```
