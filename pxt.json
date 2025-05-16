@@ -1,6 +1,6 @@
 {
     "name": "minecraft-hoc2020-md",
-    "version": "0.7.2",
+    "version": "0.8.0",
     "dependencies": {
         "core": "*",
         "builder": "*"
