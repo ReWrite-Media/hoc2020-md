@@ -18,5 +18,5 @@
 //
 ```
 ```package
-hoc2020-ts=github:rewrite-media/hoc2020-ts#v0.5.2
+hoc2020-ts-ar=github:rewrite-media/hoc2020-ts-ar
 ```
